@@ -23,8 +23,9 @@
 ## 如何使用
 
 1. 克隆仓库到本地：
+   
    ```bash
-   [git clone https://github.com/Altholia/DataStructure.git]
+   git clone https://github.com/Altholia/DataStructure.git
    ```
 2. 选择你感兴趣的数据结构目录。
 3. 阅读源代码并运行示例。
